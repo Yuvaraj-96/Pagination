@@ -1,0 +1,56 @@
+
+@media only screen and (max-width: 483px) {
+
+    body{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        padding-left: 1%;
+        padding-right: 2%;
+        padding-top: 20%;
+    
+    }
+}
+
+
+@media only screen and(max-width: 485px) {
+
+    body{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        padding-left: 20%;
+        padding-right: 5%;
+        padding-top: 50%;
+    
+    }
+}
+
+
+
+
+
+
+
+tabble,td,tr,th{
+    border: 1px solid black;
+}
+
+@media only screen and (min-width: 990px) {
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding-left: 35%;
+    padding-right: 25%;
+    padding-top: 10%;
+
+}
+
+button{
+    padding: 20px;
+    vertical-align: center;
+}
+
+}
